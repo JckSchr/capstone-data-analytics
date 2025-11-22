@@ -14,7 +14,7 @@ The study examines four key hypotheses related to:
 3. The effect of **mortgage rates** on **sales volume**
 4. The predictability of **housing affordability** using income and geographic data
 
-Using correlation analysis, regression modeling, and classification algorithms, this project identifies the key drivers behind New England’s growing housing affordability crisis.
+Using correlation analysis, regression modeling, and classification algorithms, this project identifies the key aspects of New England’s housing affordability.
 
 ---
 
