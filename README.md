@@ -1,9 +1,11 @@
 # capstone-data-analytics
 Final Capstone Project for Data Analytics Course
 
+---
+
 # New England Housing Affordability Analysis (2019–2024)
 
-## Overview
+# Overview
 This project analyzes housing affordability across Massachusetts (MA), Connecticut (CT), and New Hampshire (NH) from 2019 to 2024.  
 The study examines four key hypotheses related to:
 
@@ -16,7 +18,7 @@ Using correlation analysis, regression modeling, and classification algorithms, 
 
 ---
 
-## Technologies Used
+# Technologies Used
 - **Python 3.10+**
 - **Pandas**, **NumPy** — data cleaning & transformation  
 - **Matplotlib**, **Seaborn** — data visualization  
@@ -24,3 +26,14 @@ Using correlation analysis, regression modeling, and classification algorithms, 
 - **Statsmodels** — OLS regression  
 - **Jupyter Notebook / VS Code** — analysis environment  
 - **Git & GitHub** — version control
+
+---
+
+# How to reproduce the analysis
+Download the capstone_final folder, open the folder in your prefered IDE and run capstone.ipynb. All required CSV and Excel files are included in the folder.
+
+---
+
+# Sources for CSV and Excel files used
+Zillow Housing Data: https://www.zillow.com/research/data/
+United States Census Bureau: https://www.census.gov/data/datasets/time-series/demo/popest/2020s-state-detail.html
