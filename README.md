@@ -35,5 +35,5 @@ Download the capstone_final folder, open the folder in your prefered IDE and run
 ---
 
 # Sources for CSV and Excel files used
-Zillow Housing Data: https://www.zillow.com/research/data/
-\nUnited States Census Bureau: https://www.census.gov/data/datasets/time-series/demo/popest/2020s-state-detail.html
+Zillow Housing Data: https://www.zillow.com/research/data/  
+United States Census Bureau: https://www.census.gov/data/datasets/time-series/demo/popest/2020s-state-detail.html
